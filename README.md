@@ -2,7 +2,7 @@
 
 > 従量課金、最低 1 ドルから、OpenAI 互換エンドポイント。 **480P-input $0.0064; 480P $0.0106; 720P-input $0.0138**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-89c56f) · [实时价格](https://go.apimart.ai/k-58e553) · [获取 API Key](https://go.apimart.ai/k-1aae1b)**
 
 ## 料金（快照 2026-09-24）
 
